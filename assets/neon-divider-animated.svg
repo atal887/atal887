@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="15" viewBox="0 0 1000 15">
+  <defs>
+    <linearGradient id="track" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#30363d" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+
+    <!-- Core laser -->
+    <linearGradient id="core" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4b0082" stop-opacity="0" />
+      <stop offset="70%" stop-color="#8a2be2" stop-opacity="0.8" />
+      <stop offset="95%" stop-color="#ff69b4" stop-opacity="1" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="1" />
+    </linearGradient>
+
+    <!-- Glow layer -->
+    <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4b0082" stop-opacity="0" />
+      <stop offset="80%" stop-color="#8a2be2" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#ff69b4" stop-opacity="0.6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Track -->
+  <rect x="0" y="7" width="1000" height="1" fill="url(#track)" />
+
+  <g>
+    <!-- We animate the group to move the beam across the screen -->
+    <animateTransform attributeName="transform" type="translate" from="-600 0" to="1100 0" dur="2.5s" repeatCount="indefinite" />
+    
+    <!-- Outer Glow (tall, transparent) -->
+    <rect x="0" y="3" width="600" height="9" rx="4.5" fill="url(#glow1)" />
+    
+    <!-- Inner Glow (medium, semi-transparent) -->
+    <rect x="0" y="5" width="600" height="5" rx="2.5" fill="url(#glow1)" opacity="0.8"/>
+    
+    <!-- Solid Core -->
+    <rect x="0" y="6.5" width="600" height="2" rx="1" fill="url(#core)" />
+  </g>
+</svg>
