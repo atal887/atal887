@@ -1,22 +1,172 @@
-<h1 align="center">Hi 👋, I'm Nandini Atal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Nandini Atal 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atal887&label=Profile%20views&color=0e75b6&style=flat" alt="atal887" /> </p>
-
-- 📫 How to reach me **atalnandini887@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/atalnandini887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atalnandini887" height="30" width="40" /></a>
+<p align="center">
+  Computer Science Engineering (AI) student at IGDTUW  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atal887&show_icons=true&locale=en&layout=compact" alt="atal887" /></p>
+## 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atal887&show_icons=true&locale=en" alt="atal887" /></p>
+<table>
+<tr>
+<td width="60%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atal887&" alt="atal887" /></p>
+I am Nandini Atal, currently pursuing B.Tech in Computer Science Engineering with AI from IGDTUW.
+
+I enjoy working on problems that require structured thinking and real-world constraints rather than just surface-level implementation. My focus is on building systems that are reliable, efficient, and logically sound.
+
+Over time, I’ve explored backend development, applied AI, and security-driven systems through projects that try to solve practical problems.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/atal887/atal887/main/profile.png" width="200" style="border-radius:50%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I’ve Learned Through Building
+
+* Designing systems with multiple layers instead of single-point solutions
+* Applying cryptography concepts (hashing, signatures) in real-world use cases
+* Building backend-driven applications with structured data flow
+* Working with AI models for practical tools rather than just experiments
+* Thinking in terms of performance, reliability, and scalability
+
+---
+
+## My Top Projects
+
+---
+
+### 🔹 ClearPath
+
+<table>
+<tr>
+<td width="60%">
+
+* Supply-chain traceability system without blockchain
+* Uses SHA-256 hashing and ECDSA signatures
+* Ensures data integrity across multiple stakeholders
+* Designed to be lightweight and practical
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="YOUR_CLEARPATH_IMAGE_LINK" width="250"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔹 VAJRA
+
+<table>
+<tr>
+<td width="60%">
+
+* Cybersecurity-focused request filtering system
+* Multi-layer architecture for handling adversarial traffic
+* Proof-of-Work (SHA-256) used for bot mitigation
+* Focused on reducing unnecessary server load
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="YOUR_VAJRA_IMAGE_LINK" width="250"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔹 IntelliView
+
+<table>
+<tr>
+<td width="60%">
+
+* AI-based interview preparation platform
+* Generates interview questions dynamically
+* Includes resume analysis (ATS-style feedback)
+* Deployed using Flask and AWS
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="YOUR_INTELLIVIEW_IMAGE_LINK" width="250"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Coding & Problem Solving
+
+I actively practice Data Structures and Algorithms to strengthen problem-solving skills and improve consistency.
+
+So far, this journey has helped me develop:
+
+* Better pattern recognition
+* Ability to break down complex problems
+* Improved speed and accuracy under constraints
+
+---
+
+### 📊 LeetCode
+
+<p align="center">
+<img src="YOUR_LEETCODE_IMAGE_LINK" width="500"/>
+</p>
+
+---
+
+### 📊 CodeChef
+
+<p align="center">
+<img src="YOUR_CODECHEF_IMAGE_LINK" width="500"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atal887&show_icons=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atal887" />
+</p>
+
+---
+
+## 🌱 Journey So Far
+
+From learning basic programming concepts to building complete systems, my journey has been focused on understanding things deeply rather than quickly.
+
+I’m still exploring, improving, and trying to build better with each project.
+
+---
+
+## 🤝 Connect
+
+* GitHub: https://github.com/atal887
+* LinkedIn: https://linkedin.com/in/atalnandini887
+
+---
+
+## ⚡ Final Note
+
+This profile is a reflection of my learning journey so far.
+There’s still a lot to explore, and I’m continuously working on improving both my skills and the way I build systems.
